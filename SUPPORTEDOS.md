@@ -7,7 +7,7 @@
 | Windows XP (SP3)   | :x: Supported in Beta 3|
 | Windows Vista (SP2 With Platform Update)   | :x: Supported in  Beta 3 |
 | Windows 7 (SP1 With all updates)   | :white_check_mark: |
-| Windows 8: | :x:  Supported in Beta 2. |
+| Windows 8: |   :white_check_mark: |
 | Windows 8.1 | :white_check_mark: |
 | Windows 10 (Build 1507)   | :x: Not supported anymore. |
 | Windows 10 (Build 1607)   | :x: Not supported anymore. |
