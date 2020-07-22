@@ -2,11 +2,6 @@
 
 ## Supported Versions
 
-Windows XP (SP3): Avaliable in Beta 3.
-Windows 7 (SP1 With all Updates from 2019): Avaliable!
-Windows 8: Avaliable in Beta 3.
-Windows 8.1: Avaliable!
-Windows 10: (!!build 1703!!): Avaliable!
 | Version | Supported          |
 | ------- | ------------------ |  
 | Windows XP (SP3)   | :x: Supported in Beta 3|
