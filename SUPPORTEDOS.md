@@ -1,4 +1,4 @@
-# Security Policy And Supported Operating Systems (OS)
+# Supported Operating Systems (OS)
 
 ## Supported Versions
 
