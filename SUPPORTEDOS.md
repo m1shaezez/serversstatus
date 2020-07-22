@@ -1,0 +1,25 @@
+# Security Policy And Supported Operating Systems (OS)
+
+## Supported Versions
+
+Windows XP (SP3): Avaliable in Beta 3.
+Windows 7 (SP1 With all Updates from 2019): Avaliable!
+Windows 8: Avaliable in Beta 3.
+Windows 8.1: Avaliable!
+Windows 10: (!!build 1703!!): Avaliable!
+| Version | Supported          |
+| ------- | ------------------ |
+| Windows XP (SP3)   | :x: Supported in Beta 3|
+| Windows Vista (SP2 With Platform Update)   | :x: Supported in  Beta 3 |
+| Windows 7 (SP1 With all updates)   | :white_check_mark: |
+| Windows 8: | :x:  Supported in Beta 2. |
+| Windows 8.1 | :white_check_mark: |
+| Windows 10 (Build 1507)   | :x: Not supported anymore. |
+| Windows 10 (Build 1607)   | :x: Not supported anymore. |
+| Windows 10 (Build 1703)   | :white_check_mark: |
+| Windows 10 (Build 1709)   | :white_check_mark: |
+| Windows 10 (Build 1803)   | :white_check_mark: |
+| Windows 10 (Build 1809)   | :white_check_mark: |
+| Windows 10 (Build 1903)   | :white_check_mark: |
+| Windows 10 (Build 1909)   | :white_check_mark: |
+| Windows 10 (Build 2004)   | :x: Supported in Beta 5 |
