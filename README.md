@@ -5,6 +5,6 @@
 Beta 1: Uploaded to public. Added so many functions!             
 
 # Changelog v2
-Beta 2: Uploaded to public. Deleted Loading and progressbar, added "info", and so many new services!
+Beta 2: Uploaded to public. Deleted Loading and progressbar, added "info", support Windows 8, and so many new services!
 
 
