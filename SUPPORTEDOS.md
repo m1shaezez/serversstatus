@@ -8,7 +8,7 @@ Windows 8: Avaliable in Beta 3.
 Windows 8.1: Avaliable!
 Windows 10: (!!build 1703!!): Avaliable!
 | Version | Supported          |
-| ------- | ------------------ |
+| ------- | ------------------ |  
 | Windows XP (SP3)   | :x: Supported in Beta 3|
 | Windows Vista (SP2 With Platform Update)   | :x: Supported in  Beta 3 |
 | Windows 7 (SP1 With all updates)   | :white_check_mark: |
