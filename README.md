@@ -7,4 +7,5 @@ Beta 1: Uploaded to public. Added so many functions!
 # Changelog v2
 Beta 2: Uploaded to public. Deleted Loading and progressbar, added "info", support Windows 8, and so many new services!
 
-
+# Changelog v3
+Beta 3: Uploaded to public. Beta 3 is now supported Windows XP SP3 + Windows Vista (SP2 with Platform Update). Beta 3 is now have a portable version (.jar). Beta 3 is now have a new tray icon in Windows 7-10! New Mozilla Public License 2.0 in Github
