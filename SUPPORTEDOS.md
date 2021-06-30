@@ -18,3 +18,4 @@
 | Windows 10 (Build 1903)   | :white_check_mark: |
 | Windows 10 (Build 1909)   | :white_check_mark: |
 | Windows 10 (Build 2004)   | :x: Supported in Beta 5 |
+| Windows 11 (Build.beta 21993 Leaked) | :x: Supported in Beta 8 |
