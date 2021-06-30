@@ -4,8 +4,8 @@
 
 | Version | Supported          |
 | ------- | ------------------ |  
-| Windows XP (SP3)   | :x: Supported in Beta 3|
-| Windows Vista (SP2 With Platform Update)   | :x: Supported in  Beta 3 |
+| Windows XP (SP3)   | :white_check_mark: |
+| Windows Vista (SP2 With Platform Update)   | :white_check_mark: |
 | Windows 7 (SP1 With all updates)   | :white_check_mark: |
 | Windows 8: |   :white_check_mark: |
 | Windows 8.1 | :white_check_mark: |
